@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<a abc="xyz" att2="cis555">
+		<b att="123">
+				<c>
+						string with quote in c
+				</c>
+		</b>
+</a>
+<d>
+		<e>
+				<f>
+						<foo>
+								something
+						</foo>
+						<bar>
+								else
+						</bar>
+				</f>
+		</e>
+</d>
